@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CSE 365 Fall 2025
-parent: pwn.college
+title: module 3
+parent: CSE 365 Fall 2025
 nav_order: 1
 ---
 
