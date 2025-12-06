@@ -31,6 +31,8 @@ nav_order: 1
 - [Crackme](#crackme)
     - [Terrible Token (Easy)](#terrible-token-easy)
     - [Terrible Token (Hard)](#terrible-token-hard)
+    - [Tangled Ticket (Easy)](#tangled-ticket-easy)
+    - [Tangled Ticket (Hard)](#tangled-ticket-hard)
 
 ## Crackme
 ### Terrible Token (Easy)
@@ -61,3 +63,9 @@ Note: Find the correct license key
 - Run file, `/challenge/terrible-token-hard`
 - Run file, `/challenge/terrible-token-easy`
 - Use found string & prints flag!
+
+### Tangled Ticket (Easy)
+
+### Tangled Ticket (Hard)
+`lea    rdi, main`
+- `lea`, **Load Effective Address**
