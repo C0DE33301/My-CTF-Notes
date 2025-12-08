@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Medium
-parent: Reverse Engineering
+title: Virtual Machine 0
+parent: Medium
 nav_order: 1
 ---
 
-- [Virtual Machine 0](#virtual-machine-0)
-
-## Virtual Machine 0
 Files
 - `input.txt`
 - `Virtual-Machine-0.zip`
@@ -20,6 +17,7 @@ Tips
 - Blue axle
     - Output
     - 8 Cogs
+- Used [Mayo](https://github.com/fougue/mayo) to view the `Virtual-Machine-0.dae`, **Digital Asset Exchange**
 
 Images
 - Without edit ![Same Directory Image](imgs/20251207_0001.jpg)

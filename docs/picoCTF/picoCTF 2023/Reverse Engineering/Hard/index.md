@@ -1,6 +1,8 @@
 ---
-layout: default
 title: Hard
+layout: default
 parent: Reverse Engineering
-nav_order: 1
 ---
+
+# Modules
+- Module 3
