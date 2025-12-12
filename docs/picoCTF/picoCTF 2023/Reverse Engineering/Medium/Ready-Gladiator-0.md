@@ -24,7 +24,7 @@ Tips
 - [Corewars for dummies](http://www.koth.org/info/corewars_for_dummies/dummies.html)
 - [Corewars Online Play](https://crypto.stanford.edu/~blynn/play/redcode.html)
 
-**Goal: Your warrior (warrior 1) must win at least once.**
+**Goal: ???**
 
 Do nothing, ...
 - `mov 1, 1`
