@@ -12,8 +12,10 @@ layout: default
     - [OpenVPN](https://wiki.archlinux.org/title/OpenVPN)
         - [qopenvpn](https://archlinux.org/packages/?name=qopenvpn)
         - [networkmanager-openvpn](https://archlinux.org/packages/?name=networkmanager-openvpn)
+
 ### Import the VPN configuration file
 - [Download](https://tryhackme.com/access)
+
 ### Connecting
 - Arch Linux
     - Download, `sudo pacman -Syu openvpn`
