@@ -13,6 +13,8 @@ layout: default
     1. [IDOR - Santa’s Little IDOR](Advent%20Of%20Cyber%2025/5-IDOR-Santa’s-Little-IDOR.md)
     1. [Malware Analysis - Egg-xecutable](Advent%20Of%20Cyber%2025/6-Malware-Analysis-Egg-xecutable.md)
     1. [Network Discovery - Scan-ta Clause](Advent%20Of%20Cyber%2025/7-Network-Discovery-Scan-ta-Clause.md)
+    1. [Prompt Injection - Sched-yule conflict](8-Prompt-Injection-Sched-yule-conflict.md)
+    1. [Passwords - A Cracking Christmas](9-Passwords-A-Cracking-Christmas.md)
 
 # OpenVPN
 ## Get Connected
