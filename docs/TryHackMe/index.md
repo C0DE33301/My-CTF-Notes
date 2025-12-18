@@ -15,6 +15,11 @@ layout: default
     1. [Network Discovery - Scan-ta Clause](Advent%20Of%20Cyber%2025/7-Network-Discovery-Scan-ta-Clause.md)
     1. [Prompt Injection - Sched-yule conflict](8-Prompt-Injection-Sched-yule-conflict.md)
     1. [Passwords - A Cracking Christmas](9-Passwords-A-Cracking-Christmas.md)
+    1. [SOC Alert Triaging - Tinsel Triage](10-SOC-Alert-Triaging-Tinsel-Triage.md)
+    1. [XSS - Merry XSSMas](11-XSS-Merry-XSSMas.md)
+    1. [Phishing - Phishmas Greetings](12-Phishing-Phishmas-Greetings.md)
+    1. [YARA Rules - YARA mean one!](13-YARA-Rules-YARA-mean-one.md)
+    1. [Containers - DoorDasher's Demise](14-Containers-DoorDashers-Demise.md)
 
 # OpenVPN
 ## Get Connected
