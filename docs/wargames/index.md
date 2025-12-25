@@ -1,0 +1,4 @@
+---
+title: wargames
+layout: default
+---

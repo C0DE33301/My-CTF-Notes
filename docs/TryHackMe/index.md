@@ -20,6 +20,16 @@ layout: default
     1. [Phishing - Phishmas Greetings](12-Phishing-Phishmas-Greetings.md)
     1. [YARA Rules - YARA mean one!](13-YARA-Rules-YARA-mean-one.md)
     1. [Containers - DoorDasher's Demise](14-Containers-DoorDashers-Demise.md)
+    1. [Web Attack Forensics - Drone Alone](15-Web-Attack-Forensics-Drone-Alone.md)
+    1. [Forensics - Registry Furensics](16-Forensics-Registry-Furensics.md)
+    1. [CyberChef - Hoperation Save McSkidy](17-CyberChef-Hoperation-Save-McSkidy.md)
+    1. [Obfuscation - The Egg Shell File](18-Obfuscation-The-Egg-Shell-File.md)
+    1. [ICS/Modbus - Claus for Concern](19-ICS-Modbus-Claus-for-Concern.md)
+    1. [Race Conditions - Toy to The World](20-Race-Conditions-Toy-to-The-World.md)
+    1. [Malware Analysis - Malhare.exe](21-Malware-Analysis-Malhare-exe.md)
+    1. [C2 Detection - Command & Carol](22-C2-Detection-Command-&-Carol.md)
+    1. [AWS Security - S3cret Santa](23-AWS-Security-S3cret-Santa.md)
+    1. [Exploitation with cURL - Hoperation Eggsploit](24-Exploitation-with-cURL-Hoperation-Eggsploit.md)
 
 # OpenVPN
 ## Get Connected
