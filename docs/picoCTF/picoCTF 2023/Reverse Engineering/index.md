@@ -1,7 +1,7 @@
 ---
 title: Reverse Engineering
 layout: default
-parent: picoCTF 2023
+parent: picoCTF
 ---
 
 # Modules
