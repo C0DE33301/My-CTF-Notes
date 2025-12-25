@@ -1,8 +1,7 @@
 ---
-title: Hard
+title: HHard
 layout: default
 parent: Challenges
-grand_parent: TryHackMe
 ---
 
 # Hard

@@ -2,7 +2,6 @@
 title: Medium
 layout: default
 parent: Reverse Engineering
-grand_parent: picoCTF 2023
 ---
 
 1. [Virtual Machine 0](Virtual-Machine-0.md)

@@ -1,8 +1,7 @@
 ---
-title: Medium
+title: MMedium
 layout: default
 parent: Challenges
-grand_parent: TryHackMe
 ---
 
 # Medium
