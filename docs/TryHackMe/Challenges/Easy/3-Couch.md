@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Crack the hash
+title: Couch
 parent: Easy
 nav_order: 3
 ---
