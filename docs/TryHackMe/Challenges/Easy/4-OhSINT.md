@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # OhSINT
-![](WindowsXP_1551719014755.jpg)
+![](4-OhSINT-files/WindowsXP_1551719014755.jpg)
 
 `exiftool WindowsXP_1551719014755.jpg`
 ```diff
