@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Case: Seven Minutes on the Seine
+title: The Case Seven Minutes on the Seine
 parent: Easy
 nav_order: 6
 ---
