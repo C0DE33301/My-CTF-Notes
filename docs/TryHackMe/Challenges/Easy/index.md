@@ -11,3 +11,4 @@ parent: Challenges
 1. [OhSINT](4-OhSINT.md)
 1. [c4ptur3-th3-fl4g](5-c4ptur3-th3-fl4g.md)
 1. [The Case: Seven Minutes on the Seine](6-The-Case-Seven-Minutes-on-the-Seine.md)
+1. [Agent Sudo](7-Agent-Sudo.md)
