@@ -2,7 +2,7 @@
 layout: default
 title: Simple CTF
 parent: Easy
-nav_order: 9
+nav_order: 10
 ---
 
 # Simple CTF
