@@ -14,4 +14,7 @@ _site/
 .bundle/
 vendor/
 
-docs/TryHackMe/Advent\ Of\ Cyber\ 25/
+# Testing files, ...
+docs/TryHackMe/Challenges/Easy/12-TakeOver.md
+docs/TryHackMe/Challenges/Medium/2-CAPTCHApocalypse.md
+docs/TryHackMe/Challenges/Medium/2-CAPTCHApocalypse-Files/
