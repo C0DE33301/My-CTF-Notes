@@ -21,5 +21,20 @@ layout: default
 
 # Command references
 ## gobuster
-- `gobuster dir --url <> -w /usr/share/wordlists/dirb/big.txt`
-- `gobuster dir --url <> -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.tx`
+- **Find folders/files**
+    - `gobuster dir --url <> -w /usr/share/wordlists/dirb/big.txt`
+    - `gobuster dir --url <> -w /usr/share/wordlists/seclists/Discovery/Web-Content/common.txt`
+- **Find Subdomains**
+    - `gobuster vhost -u 10.82.182.96 -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt --append-domain`
+## Basic HTTP Server
+- `nc -nlvp 80`
+- `python3 -m http.server 80`
+## Privilege Escalation
+- **Sudo Privileges**, `sudo -l`
+- **Group Privileges**
+
+    |Group|Info|
+    |---|---|
+    |adm|Read access to log files, `/var/log`|
+    - `id`
+    - `find / -group <GROUP-NAME>`
